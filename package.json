@@ -1,0 +1,28 @@
+{
+  "name": "node-npm-project-from-scratch",
+  "version": "1.0.0",
+  "description": "This repository is a chance for you to practice starting a project from scratch with Node and NPM.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gSchool/node-npm-project-from-scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gSchool/node-npm-project-from-scratch/issues"
+  },
+  "homepage": "https://github.com/gSchool/node-npm-project-from-scratch#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "mocha": "^5.2.0"
+  }
+}
